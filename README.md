@@ -13,7 +13,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## 🔗 Links
 
-- **Solution URL:** [](#)
+- **Solution URL:** [https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV?tab=report](#)
 - **Live Site URL:** [](#)
 
 ---
@@ -37,17 +37,20 @@ While working on this project, I reinforced my understanding of:
 Here’s a little code snippet I’m proud of:
 
 .resultSection{
-  background-color: #4936f2;
-  border-radius: 25px;
-  width: 45%;
-  position: relative;
-  z-index: 2; 
-  padding-bottom: 40px;
+background-color: #4936f2;
+border-radius: 25px;
+width: 45%;
+position: relative;
+z-index: 2; 
+padding-bottom: 40px;
 }
 
 button:hover{
-  background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
-  transform: translateY(-3px);
+background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+transform: translateY(-3px);
+}
+
+  
   box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
 
